@@ -1,7 +1,4 @@
 # 👨‍⚕️ Clinic Management System - Made using C#, ASP.net
-<a href="https://github.com/martinvalentine"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
-
-
 
 A fully featured Clinic Management System having a well designed Database Schema made as a final project for the course "Database Systems CS203" during my 4th Semester at [National University of Computer and Emerging Sciences](http://nu.edu.pk/). Its based on the 3 Tier Architecture.
 
