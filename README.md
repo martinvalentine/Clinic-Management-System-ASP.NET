@@ -1,10 +1,5 @@
 # 👨‍⚕️ Clinic Management System - Made using C#, ASP.net
-<a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
-
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
-[![GitHub Forks](https://img.shields.io/github/forks/harismuneer/Clinic-Management-System-ASP.NET.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Clinic-Management-System-ASP.NET/fork)
-[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Clinic-Management-System-ASP.NET.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Clinic-Management-System-ASP.NET/issues)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+<a href="https://github.com/martinvalentine"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
 
 
 
