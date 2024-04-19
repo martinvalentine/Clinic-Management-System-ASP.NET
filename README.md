@@ -1,7 +1,5 @@
 # 👨‍⚕️ Clinic Management System - Made using C#, ASP.net
 
-A fully featured Clinic Management System having a well designed Database Schema made as a final project for the course "Database Systems CS203" during my 4th Semester at [National University of Computer and Emerging Sciences](http://nu.edu.pk/). Its based on the 3 Tier Architecture.
-
 ## Technologies Used:
 
 For Frontend: HTML, CSS, BootStrap, JavaScript
