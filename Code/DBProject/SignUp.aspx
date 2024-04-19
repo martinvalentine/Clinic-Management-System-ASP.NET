@@ -5,15 +5,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 
-    <title>MedicX 4 Health Care Login &amp; Register</title>
+    <title>HappyLife Health Care Login &amp; Register</title>
 
 
  <script type="text/javascript">
 
 
      //----------------------Function1-----------------------------//
-     function validateEmail(Email)
-     {
+     function validateEmail(Email) {
          if (Email == "") {
              alert("Email missing. Enter Email.");
              return false;
@@ -50,12 +49,11 @@
 
 
      //----------------------Function2-----------------------------//
-     function validateS() 
-     {
-         var Name      = document.getElementById('<%=sName.ClientID %>').value;
-         var Bdate     = document.getElementById('<%=sBirthDate.ClientID %>').value;
-         var Email     = document.getElementById('<%=sEmail.ClientID %>').value;
-         var phone     = document.getElementById('<%=Phone.ClientID %>').value;
+     function validateS() {
+         var Name = document.getElementById('<%=sName.ClientID %>').value;
+         var Bdate = document.getElementById('<%=sBirthDate.ClientID %>').value;
+         var Email = document.getElementById('<%=sEmail.ClientID %>').value;
+         var phone = document.getElementById('<%=Phone.ClientID %>').value;
          var pass      = document.getElementById('<%=sPassword.ClientID %>').value;
          var cpass     = document.getElementById('<%=scPassword.ClientID %>').value;
          
@@ -125,15 +123,14 @@
      {
          var Email        = document.getElementById('<%=loginEmail.ClientID %>').value;
          var Password     = document.getElementById('<%=loginPassword.ClientID %>').value;
-         
+
          /*now the validation code*/
 
          if (!validateEmail(Email))
              return false;
 
 
-         if (Password == "")
-         {
+         if (Password == "") {
              alert("Password missing. Enter Password.");
              return false;
          }
@@ -145,7 +142,7 @@
      //------------------------------------------------------------------//
      //------------------------------------------------------------------//
 
-</script>
+ </script>
 
 
     <!-- CSS -->
@@ -192,11 +189,11 @@
                    <div class="row">
                          <div class="col-sm-8 col-sm-offset-2 text">
                         
-                            <h1><strong>MedicX 4 Health Care</strong> Login &amp; Registration Form</h1>
+                            <h1><strong>HappyLife Health Care</strong> Login &amp; Registration Form</h1>
                             
                             <div class="description">
                             	<p>
-	                            	This is a free <strong>"Login and Registration form"</strong> for Health Care Clinic. 
+	                            	This is a free <strong>"Login and Registration form"</strong> for HappyLife Health Care Clinic. 
                             	</p>                            
                             </div>
                         </div>
@@ -317,7 +314,7 @@
 
                             <div class="form-group">
             
-                                    <asp:TextBox ID="Phone" runat="server" type="text" class="form-username form-control" placeholder="Phone Number (11 Digits)" ></asp:TextBox>
+                                    <asp:TextBox ID="Phone" runat="server" type="text" class="form-username form-control" placeholder="Phone Number (10 Digits)" ></asp:TextBox>
 
                             </div>
                                     

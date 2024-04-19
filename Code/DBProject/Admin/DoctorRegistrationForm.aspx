@@ -8,37 +8,30 @@
     <title></title>
 
 <style type = "text/css">
-  
-   
-
-    html
-    {
-      background-image:url("/assets/Doctor.jpg");   
-      background-size: cover;
-      background-position: 0 -90px;
-      background-attachment: fixed;
+    html {
+        background-image: url("/assets/Doctor.jpg");
+        background-size: cover;
+        background-position: 0 -90px;
+        background-attachment: fixed;
     }
+
     body {
         background: none !important;
     }
+
     .backstretch {
         display: none !important;
     }
 
-    .grad{
+    .grad {
+        background: linear-gradient(to right, rgba(30, 160, 130, 0.15),rgba(0, 148, 255, 1));
+        border-radius: 8px;
+    }
 
-  background: linear-gradient(to right, rgba(30, 160, 130 , 0.15),rgba(0, 148, 255 , 1)); 
-  border-radius:8px;
-}
- 
-  #space
-  {
-    padding-bottom:50px;
-  }
-
-    
-    
-    </style>
+    #space {
+        padding-bottom: 50px;
+    }
+</style>
 
 </head>
 <body>
@@ -76,11 +69,11 @@
                     
                         <div class="col-sm-8 col-sm-offset-2 text">
                         
-                            <h1><strong>Medix4 Health Care</strong> Doctor Registration</h1>
+                            <h1><strong>HappyLife Health Care</strong> Doctor Registration</h1>
                             
                             <div class="description">
                             	<p>
-	                            	This is a free <strong>"Doctor registeration form"</strong> for Medix4 health Care. 
+	                            	This is a free <strong>"Doctor registeration form"</strong> for HappyLife health Care. 
 	                            	Fill out the information of the Doctor to Register 
 	                            	
                                     
@@ -209,9 +202,9 @@
 
 				                        
                                              
-                                             <asp:TextBox ID="Salary" runat="server" type="text"  placeholder="Salary in Rupees" Width="221px" ></asp:TextBox>
+                                             <asp:TextBox ID="Salary" runat="server" type="text"  placeholder="Salary in USD" Width="221px" ></asp:TextBox>
 
-                                                <asp:TextBox ID="Charges_per_visit" runat="server" type="text"  placeholder="Charges_per_visit in Rupees" Width="227px" ></asp:TextBox>
+                                                <asp:TextBox ID="Charges_per_visit" runat="server" type="text"  placeholder="Charges per visit in USD" Width="227px" ></asp:TextBox>
                                              <asp:TextBox ID="Exp" runat="server" type="text"  placeholder="Experience (0-5)" Width="229px" ></asp:TextBox>
                                         
                                         </div>
@@ -317,13 +310,9 @@
         			
         			<div class="col-sm-8 col-sm-offset-2">
         				<div class="footer-border"></div>
-        				<p style="color:darkslategrey">if You have Any Query
-        					Please Feel Free to Contact US. <i class="fa fa-smile-o"></i></p>
-        			
-                   
-                    
+        				<p style="color:darkslategrey">If you have any questions
+        					please feel free to contact us. <i class="fa fa-smile-o"></i></p>
                     </div>
-        			
         		</div>
         	</div>
         </footer>

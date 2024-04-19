@@ -102,16 +102,7 @@
                 <SortedDescendingHeaderStyle BackColor="#275353" />
 
             </asp:GridView>
-          
-                
-            
-
-
             </div>
-            
-            
-            
-            
             </div>
 
 

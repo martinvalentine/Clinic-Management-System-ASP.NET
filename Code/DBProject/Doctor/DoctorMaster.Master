@@ -103,60 +103,70 @@
 
         </div>
 
+        <!-- Body Content Place Holder -->
+    
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        <!-- Optional additional Content here -->
+    </asp:ContentPlaceHolder>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+        <!-- Optional additional Content here -->
+    </asp:ContentPlaceHolder>
+</div>
+
 
 
 
 
 
         <!--- Footer starts here -->
-        <footer class="footer-distributed"  >
+<footer class="footer-distributed"  >
 
-			<div class="footer-left">
+	<div class="footer-left">
 
-				<h3>MedicX<span>4</span></h3>
+		<h3>Happy<span>Life</span></h3>
 
-				<p class="footer-company-name">MedicX4 Health Care &copy; 2017</p>
-			</div>
+		<p class="footer-company-name">HappyLife Health Care &copy; 2024</p>
+	</div>
 
 
-			<div class="footer-center">
+	<div class="footer-center">
 
-				<div>
-					<i class="fa fa-map-marker"></i>
-					<p><span>Milaad St Block B</span> Faisal Town, Lahore</p>
-				</div>
+		<div>
+			<i class="fa fa-map-marker"></i>
+			<p><span>University of Transport and Communications</span> 3 Đ. Cầu Giấy, Ngọc Khánh, Đống Đa, Hà Nội</p>
+		</div>
 
-				<div>
-					<i class="fa fa-phone"></i>
-					<p>0322 - 7561001</p>
-				</div>
+		<div>
+			<i class="fa fa-phone"></i>
+			<p>19000199</p>
+		</div>
 
-				<div>
-					<i class="fa fa-envelope"></i>
-					<p><a href="mailto:support@medicx4.com">support@medicx4.com</a></p>
-				</div>
+		<div>
+			<i class="fa fa-envelope"></i>
+			<p><a href="mailto:support@happylife.com">support@happylife.com</a></p>
+		</div>
 
-			</div>
+	</div>
 
-			<div class="footer-right">
+	<div class="footer-right">
 
-				<p class="footer-company-about">
-					<span>About the company</span>
-					Our mission is to provide quality health services to all in a comfortable and cozy environment.
-                    The clinic primarily offers consultations and is not equipped to take emergencies.
-				</p>
+		<p class="footer-company-about">
+			<span>About the company</span>
+			Our mission is to provide quality health services to all in a comfortable and cozy environment.
+            The clinic primarily offers consultations and is not equipped to take emergencies.
+		</p>
 
-    			<div class="footer-icons">
+  			<div class="footer-icons">
 
-    				<a href="#"><i class="fa fa-facebook"></i></a>
+  				<a href="#"><i class="fa fa-facebook"></i></a>
 
-    			</div>
+  			</div>
 
-			</div>
+	</div>
 
-		</footer>
+</footer>
 
-        <!--- Footer ends here -->
+<!--- Footer ends here -->
 
 
 
