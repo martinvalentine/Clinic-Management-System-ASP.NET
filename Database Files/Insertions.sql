@@ -14,6 +14,7 @@ GO
 
 
 INSERT INTO LoginTable(Email, Password, Type) VALUES ('admin@clinic.com' ,'admin' ,   3)
+INSERT INTO LoginTable(Email, Password, Type) VALUES ('quangquang@clinic.com' ,'admin' ,   3)
 
 
 --DEPARTMENT INSERTION
