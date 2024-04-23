@@ -15,14 +15,22 @@ body{
 
 
 
-/* In our demo, the footers are fixed to the bottom of the page */
-
-footer{
-	position: fixed;
-	bottom: 0;
+/* Footer CSS */
+.footer-distributed {
+	position: relative; /* Set position to relative */
+	bottom: 0; /* Align to the bottom */
+	width: 100%; /* Full width */
+	background-color: #292c2f; /* Background color */
+	color: #ffffff; /* Text color */
+	padding: 1em 0; /* Padding */
+	text-align: center; /* Center text */
 }
 
-@media (max-height:800px){
-	footer { position: static; }
-	header { padding-top:40px; }
+/* Media query to adjust footer position */
+@media (max-height: 768px) {
+	.footer-distributed {
+		position: absolute; /* Set position to absolute */
+		bottom: 0; /* Align to the bottom */
+	}
 }
+

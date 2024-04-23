@@ -37,7 +37,7 @@
                 <SortedDescendingHeaderStyle BackColor="#575357" />
             </asp:GridView>
         </div>
-        <div style="margin: 20%">
+        <div style="margin-left: 70px">
             <h2><strong style="margin: 20%">Department Information</strong></h2>
             <asp:GridView ID="department_View" runat="server" CellPadding="4" ForeColor="Black" Height="50px" BackColor="White" BorderColor="#DEDFDE" BorderStyle="None" BorderWidth="1px" GridLines="Vertical">
                 <AlternatingRowStyle BackColor="White" />
@@ -52,5 +52,9 @@
                 <SortedDescendingHeaderStyle BackColor="#575357" />
             </asp:GridView>
         </div>
+        
+        <br /><br />
+        
+        <br /><br />
     </form>
 </asp:Content>

@@ -7,11 +7,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DBProject {
-    
-    
-    public partial class Admin {
-        
+namespace DBProject
+{
+
+
+    public partial class Admin
+    {
+
         /// <summary>
         /// ContentPlaceHolder2 control.
         /// </summary>
@@ -20,7 +22,7 @@ namespace DBProject {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.ContentPlaceHolder ContentPlaceHolder2;
-        
+
         /// <summary>
         /// head control.
         /// </summary>
@@ -29,7 +31,7 @@ namespace DBProject {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.ContentPlaceHolder head;
-        
+
         /// <summary>
         /// ContentPlaceHolder1 control.
         /// </summary>

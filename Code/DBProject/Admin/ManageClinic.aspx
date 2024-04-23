@@ -109,7 +109,7 @@
             
           </div>
 
-             <div style="display:inline-block; float:right;margin-right:10%" runat="server" id="mydiv"></div>
+             <div style="display:inline-block; float:right" runat="server" id="mydiv"></div>
 
           
 

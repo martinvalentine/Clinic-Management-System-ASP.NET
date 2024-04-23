@@ -5,7 +5,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 
-
     <!--------------------------------- Styling -------------------------------->
 
     <!-- Google Fonts -->
@@ -14,15 +13,12 @@
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
 
-
-    <!-- Patient Style -->
+    <!-- Doctor Style -->
     <link rel="stylesheet" href="/assets/css/patient-style.css"/>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 
-
-
-    <!------------------------------------Styling for Footer-------------------------------------->
+    <!-- Styling for Footer -->
     <meta charset="utf-8"/>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -35,27 +31,16 @@
 
 	<link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css"/>
 
-
-
-
-
-
-
-
     <!-- Head Content Place Holder -->
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 
 </head>
 
-
-
-
-
 <body>
     <form id="form1" runat="server">
     
-        <div>
+        <div class="site-content">
 
             <!-- Navigation Bar starts from here -->
              <nav class="navbar navbar-inverse">
@@ -85,90 +70,70 @@
             </nav>
             <!--Navigation Bar ends here -->
 
-
-
-
-
-           
-         <!-- Body Content Place Holder -->
-        <asp:ContentPlaceHolder ID="Cp1" runat="server">
-        
-        </asp:ContentPlaceHolder>
-             <asp:ContentPlaceHolder ID="Cp2" runat="server">
-        
-        </asp:ContentPlaceHolder>
-             <asp:ContentPlaceHolder ID="Cp3" runat="server">
-        
-        </asp:ContentPlaceHolder>
+            <!-- Body Content Place Holder -->
+            <asp:ContentPlaceHolder ID="Cp1" runat="server">
+            </asp:ContentPlaceHolder>
+            <asp:ContentPlaceHolder ID="Cp2" runat="server">
+            </asp:ContentPlaceHolder>
+            <asp:ContentPlaceHolder ID="Cp3" runat="server">
+            </asp:ContentPlaceHolder>
 
         </div>
 
-        <!-- Body Content Place Holder -->
-    
-    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
-        <!-- Optional additional Content here -->
-    </asp:ContentPlaceHolder>
-    <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
-        <!-- Optional additional Content here -->
-    </asp:ContentPlaceHolder>
-</div>
-
-
-
-
-
-
         <!--- Footer starts here -->
-<footer class="footer-distributed"  >
+        <footer class="footer-distributed"  >
 
-	<div class="footer-left">
+            <div class="footer-left">
+                <h3>Happy<span>Life</span></h3>
+                <p class="footer-company-name">HappyLife Health Care &copy; 2024</p>
+            </div>
 
-		<h3>Happy<span>Life</span></h3>
+            <div class="footer-center">
+                <div>
+                    <i class="fa fa-map-marker"></i>
+                    <p><span>University of Transport and Communications</span> 3 Đ. Cầu Giấy, Ngọc Khánh, Đống Đa, Hà Nội</p>
+                </div>
+                <div>
+                    <i class="fa fa-phone"></i>
+                    <p>19000199</p>
+                </div>
+                <div>
+                    <i class="fa fa-envelope"></i>
+                    <p><a href="mailto:support@happylife.com">support@happylife.com</a></p>
+                </div>
+            </div>
 
-		<p class="footer-company-name">HappyLife Health Care &copy; 2024</p>
-	</div>
+            <div class="footer-right">
+                <p class="footer-company-about">
+                    <span>About the company</span>
+                    Our mission is to provide quality health services to all in a comfortable and cozy environment.
+                    The clinic primarily offers consultations and is not equipped to take emergencies.
+                </p>
+                <div class="footer-icons">
+                    <a href="#"><i class="fa fa-facebook"></i></a>
+                </div>
+            </div>
 
+        </footer>
+        <!--- Footer ends here -->
 
-	<div class="footer-center">
+        <!-- CSS -->
+        <style>
+            .site-content {
+                display: flex;
+                flex-direction: column;
+                min-height: 100vh;
+            }
 
-		<div>
-			<i class="fa fa-map-marker"></i>
-			<p><span>University of Transport and Communications</span> 3 Đ. Cầu Giấy, Ngọc Khánh, Đống Đa, Hà Nội</p>
-		</div>
-
-		<div>
-			<i class="fa fa-phone"></i>
-			<p>19000199</p>
-		</div>
-
-		<div>
-			<i class="fa fa-envelope"></i>
-			<p><a href="mailto:support@happylife.com">support@happylife.com</a></p>
-		</div>
-
-	</div>
-
-	<div class="footer-right">
-
-		<p class="footer-company-about">
-			<span>About the company</span>
-			Our mission is to provide quality health services to all in a comfortable and cozy environment.
-            The clinic primarily offers consultations and is not equipped to take emergencies.
-		</p>
-
-  			<div class="footer-icons">
-
-  				<a href="#"><i class="fa fa-facebook"></i></a>
-
-  			</div>
-
-	</div>
-
-</footer>
-
-<!--- Footer ends here -->
-
-
+            .footer-distributed {
+                margin-top: auto;
+                width: 100%;
+                background-color: #292c2f;
+                color: #ffffff;
+                padding: 1em 0;
+                text-align: center;
+            }
+        </style>
 
     </form>
 </body>

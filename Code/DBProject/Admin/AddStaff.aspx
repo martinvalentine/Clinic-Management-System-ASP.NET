@@ -76,11 +76,11 @@
                     
                         <div class="col-sm-8 col-sm-offset-2 text">
                         
-                            <h1><strong>Medix4 Health Care</strong> Staff Registration Form</h1>
+                            <h1><strong>HappyLife Health Care</strong> Staff Registration Form</h1>
                             
                             <div class="description">
                             	<p>
-	                            	This is a <strong>"registeration form"</strong> for Medix4 Health Care. 
+	                            	This is a <strong>"registeration form"</strong> for HappyLife Health Care. 
 	                            	Fill out the information to register the staff member 
 	                            	
                                     
@@ -126,7 +126,7 @@
 
 
 
-                                        <!-- Staff REg  form start honay laga hai :)-->
+                                        <!-- Staff REg  form start-->
 
 
                                         <div class="form-group">
@@ -172,7 +172,7 @@
 
 
 
-                                        <asp:TextBox ID="Salary" runat="server" type="text" placeholder="Salary in Rupees" Width="221px"></asp:TextBox>
+                                        <asp:TextBox ID="Salary" runat="server" type="text" placeholder="Salary in USD" Width="221px"></asp:TextBox>
 
                                         <asp:TextBox ID="Qual" runat="server" type="text" placeholder="Qualification"></asp:TextBox>
                                         <asp:TextBox ID="Designation" runat="server" type="text" placeholder="Designation" Width="243px"></asp:TextBox>
@@ -255,7 +255,7 @@
             
 
         <!-- Footer -->
-        <footer>
+        <footer ">
         	<div class="container">
         		<div class="row">
         			

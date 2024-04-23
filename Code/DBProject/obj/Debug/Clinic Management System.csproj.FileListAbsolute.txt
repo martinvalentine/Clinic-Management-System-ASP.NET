@@ -68,13 +68,48 @@ D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Cod
 D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\obj\Debug\Clinic Management System.csproj.CopyComplete
 D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\obj\Debug\DBProject.dll
 D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\obj\Debug\DBProject.pdb
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\ApplicationInsights.config
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\csc.exe
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\vbc.exe
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\DBProject.dll.config
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\DBProject.dll
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\DBProject.pdb
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.Web.dll
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.Web.xml
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\obj\Debug\Clinic M.C6172C23.Up2Date
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\obj\Debug\DBProject.dll
+C:\Users\Martin Valentine\Desktop\Clinic-Management-System-ASP.NET\Code\DBProject\obj\Debug\DBProject.pdb
 E:\UTC\Clinic-Management-System-ASP.NET\Code\DBProject\bin\ApplicationInsights.config
+E:\UTC\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\csc.exe
 E:\UTC\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 E:\UTC\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-E:\UTC\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\Microsoft.CSharp.Core.targets
-E:\UTC\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\csc.exe
 E:\UTC\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.dll
 E:\UTC\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\UTC\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\Microsoft.CSharp.Core.targets
 E:\UTC\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
 E:\UTC\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\System.Collections.Immutable.dll
 E:\UTC\Clinic-Management-System-ASP.NET\Code\DBProject\bin\roslyn\System.Reflection.Metadata.dll
